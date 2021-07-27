@@ -1,2 +1,2 @@
 print('Nico Nico Nii')
-stop please no
+print('you sir, are a sussy baka')
