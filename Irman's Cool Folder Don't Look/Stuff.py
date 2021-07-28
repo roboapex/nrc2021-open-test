@@ -1,1 +1,0 @@
-print('Nico Nico Nii')
